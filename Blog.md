@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: default
 title: Blog
-permalink: /blog/
 ---
+
+[Home](./)
 
 ## Here I blog
