@@ -18,7 +18,7 @@ sidebar:
     link: https://github.com/JorgeOfBurgos/alhaque.github.io/blob/main/assets/files/resume1.pdf
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/JorgeOfBurgos
+    link: blog\Blog.md
   
   - name: Blog
     icon: <i class="fa-solid fa-pen"></i>
